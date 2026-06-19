@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LosslessCutter.csproj" />
+  <Project Path="LossLessCutterSetup/Installer/Installer.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
